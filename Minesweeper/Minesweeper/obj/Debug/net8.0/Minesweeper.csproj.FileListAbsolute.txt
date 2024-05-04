@@ -1,0 +1,14 @@
+C:\Users\boazr\OneDrive - Hogeschool Rotterdam\Semester 2\Minesweeper\Minesweeper\bin\Debug\net8.0\Minesweeper.exe
+C:\Users\boazr\OneDrive - Hogeschool Rotterdam\Semester 2\Minesweeper\Minesweeper\bin\Debug\net8.0\Minesweeper.deps.json
+C:\Users\boazr\OneDrive - Hogeschool Rotterdam\Semester 2\Minesweeper\Minesweeper\bin\Debug\net8.0\Minesweeper.runtimeconfig.json
+C:\Users\boazr\OneDrive - Hogeschool Rotterdam\Semester 2\Minesweeper\Minesweeper\bin\Debug\net8.0\Minesweeper.dll
+C:\Users\boazr\OneDrive - Hogeschool Rotterdam\Semester 2\Minesweeper\Minesweeper\bin\Debug\net8.0\Minesweeper.pdb
+C:\Users\boazr\OneDrive - Hogeschool Rotterdam\Semester 2\Minesweeper\Minesweeper\obj\Debug\net8.0\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boazr\OneDrive - Hogeschool Rotterdam\Semester 2\Minesweeper\Minesweeper\obj\Debug\net8.0\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\boazr\OneDrive - Hogeschool Rotterdam\Semester 2\Minesweeper\Minesweeper\obj\Debug\net8.0\Minesweeper.AssemblyInfo.cs
+C:\Users\boazr\OneDrive - Hogeschool Rotterdam\Semester 2\Minesweeper\Minesweeper\obj\Debug\net8.0\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\boazr\OneDrive - Hogeschool Rotterdam\Semester 2\Minesweeper\Minesweeper\obj\Debug\net8.0\Minesweeper.dll
+C:\Users\boazr\OneDrive - Hogeschool Rotterdam\Semester 2\Minesweeper\Minesweeper\obj\Debug\net8.0\refint\Minesweeper.dll
+C:\Users\boazr\OneDrive - Hogeschool Rotterdam\Semester 2\Minesweeper\Minesweeper\obj\Debug\net8.0\Minesweeper.pdb
+C:\Users\boazr\OneDrive - Hogeschool Rotterdam\Semester 2\Minesweeper\Minesweeper\obj\Debug\net8.0\Minesweeper.genruntimeconfig.cache
+C:\Users\boazr\OneDrive - Hogeschool Rotterdam\Semester 2\Minesweeper\Minesweeper\obj\Debug\net8.0\ref\Minesweeper.dll
